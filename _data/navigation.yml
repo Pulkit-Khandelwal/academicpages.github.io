@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
    
-  - title: "Reading List"
+  - title: "Book List"
     url: /booklist/
+
+  - title: "Reading List"
+    url: /reading-list/
