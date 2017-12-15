@@ -14,30 +14,34 @@ redirect_from:
 
 Education
 ======
-* MSc. Computer Science
+* **MSc. Computer Science**
   * McGill University, Montreal, Canada [Sept. 2016 - present]
   * Supervisor: Kaleem Siddiqi
   * Co-supervisor: Louis Collins
       
-* BTech. Electronics and Communication Engineering
+* **BTech. Electronics and Communication Engineering**
   * Vellore Institute of Technology, India [2012 - 2016]
       
 Research and Work Experience
 ======
-* Planet Labs, San Francisco, United States [Aug. 2017 - Dec. 2017]
-  * Machine Learning Intern | Supervisor: 
-  * 
-  * 
+* **Shape Analysis Group, McGill University** [Nov. 2016 - present]
+  *
+  *
 
-* University of Queensland, Brisbane, Australia [Dec. 2015 - Feb. 2016]
-  * Research Intern | Supervisor: 
+* **Planet Labs**, San Francisco, United States [Aug. 2017 - Dec. 2017]
+  * Machine Learning Intern
   * 
+  * Supervisor: 
+
+* **Centre for Advanced Imaging, University of Queensland**, Brisbane, Australia [Dec. 2015 - Feb. 2016]
+  * Research Intern
   * 
+  * Supervisor: 
   
-* University of Saskatchewan, Saskatoon, Canada [June 2015 - Aug. 2015]
-  * Research Intern | Supervisor: 
+* **Imaging, Media and Graphics Lab., University of Saskatchewan**, Saskatoon, Canada [June 2015 - Aug. 2015]
+  * Research Intern
   *
-  *
+  * Supervisor: 
   
 Skills
 ======
