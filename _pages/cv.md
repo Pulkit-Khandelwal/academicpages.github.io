@@ -23,20 +23,17 @@ Research and Work Experience
   * Graduate Research Assistant
   *
 
-* Machine Learning Intern, **Planet Labs**, San Francisco, United States [Aug. 2017 - Dec. 2017]    Supervisor: [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
-  * Research Intern
+* [**Planet Labs**](https://www.planet.com/), San Francisco, United States [Aug. 2017 - Dec. 2017]
+  * Research Intern under the supervision of [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
   * 
-  * Supervisor: [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
 
-* Research Intern, **Centre for Advanced Imaging, University of Queensland**, Brisbane, Australia [Dec. 2015 - Feb. 2016]
-  * Research Intern   [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
+* [**Centre for Advanced Imaging, University of Queensland**](https://cai.centre.uq.edu.au/), Brisbane, Australia [Dec. 2015 - Feb. 2016]
+  * Research Intern under the supervision of [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
   * 
-  * Supervisor: [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
   
-* Research Intern, **Imaging, Media and Graphics Lab., University of Saskatchewan**, Saskatoon, Canada [June 2015 - Aug. 2015]
-  * Research Intern   [*Mark Eramian*](https://www.cs.usask.ca/faculty/eramian/)
+* [**Imaging, Media and Graphics Lab., University of Saskatchewan**](https://www.cs.usask.ca/research/research-groups/imaging,-multimedia-and-graphics-img-lab.php), Saskatoon, Canada [June 2015 - Aug. 2015]
+  * Research Intern under the supervision of [*Mark Eramian*](https://www.cs.usask.ca/faculty/eramian/)
   *
-  * Supervisor: [*Mark Eramian*](https://www.cs.usask.ca/faculty/eramian/)
   
 Skills
 ======
