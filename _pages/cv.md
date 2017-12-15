@@ -34,7 +34,7 @@ Research and Work Experience
   * 
   * 
   
-* University of Saskatchewan, Saskatoon, Canada [June 2016 - Aug. 2016]
+* University of Saskatchewan, Saskatoon, Canada [June 2015 - Aug. 2015]
   * Research Intern | Supervisor: 
   *
   *
