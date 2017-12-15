@@ -6,4 +6,4 @@ excerpt: 'A starting point for Computer Vision and how to get going deeper. Dive
 date: 2016-08-01
 ---
 
-http://htmlpreview.github.com/https://www.kdnuggets.com/2016/08/seven-steps-understanding-computer-vision.html
+http://htmlpreview.github.com/?https://www.kdnuggets.com/2016/08/seven-steps-understanding-computer-vision.html
