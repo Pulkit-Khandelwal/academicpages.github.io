@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Reading List"
-permalink: /booklist
+permalink: /booklist/
 author_profile: true
 ---
