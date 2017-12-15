@@ -42,4 +42,4 @@ df = pd.read_csv('migration_simplified.csv')
 print df.head()
 ```
 
-![image](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_4.png)
+![image]('https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_2.png')
