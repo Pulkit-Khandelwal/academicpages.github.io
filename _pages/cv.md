@@ -14,9 +14,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Master's in Computer Science, McGill University, Canada
+    Sept 2016-present
+* Bachelor's in Technology, Vellore Institute of Technology, India
+    2012-2016
 
 Work experience
 ======
