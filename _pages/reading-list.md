@@ -69,6 +69,8 @@ Fiction:
 8. The Ministry of Utmost Happiness by Arundhati Roy
 9. The Catcher in the Rye by J. D. Salinger
 
-More book recommendations by:
+## Hungry for more?
+
 [Facebook](https://media.fb.com/2016/12/19/global-influencers-share-2016-book-recommendations-for-readtolead/)
+
 [Simon Singh](https://simonsingh.net/books/recommended-books/)
