@@ -42,4 +42,112 @@ df = pd.read_csv('migration_simplified.csv')
 print df.head()
 ```
 
-![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_2.png)
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_4.png)image_1
+
+## Plot the migration path of the birds on a Wolrd Map
+
+Next, we plot the positions of the birds as they travel. Basemap is pretty easy to get started with. I have plotted the data on a part of the world map. This is quite useful especially when you want to zoom into a certain area of the world. Here, a map has been displayed between the laitudes 30S and 70N; longitudes between 10W and 90E.
+
+```
+#initialise the figure object
+fig = plt.figure(figsize=(14,10))
+
+#initialise the Map using Basemap. You can manually set the area of the world you want to 
+#be displayed. You can also get various variations of the maps.
+
+m = Basemap(projection='merc', llcrnrlat=-30., urcrnrlat=70.,
+            llcrnrlon=-30., urcrnrlon=90., resolution='i')
+
+m.fillcontinents(color='#191919',lake_color='#000000') # dark grey land, black lakes
+m.drawmapboundary(fill_color='#000000')                # black background
+m.drawcountries(linewidth=0.1, color="w")              # draw countries
+
+#extract the coordinates into the variables x and y
+x, y = m(df['location-long'].values, df['location-lat'].values)
+
+
+#plot the positions of the birds as they migrate using the scatter plot.
+#Refer the documentation of Basemap for a better understanding of the various parameters
+m.scatter(x, y, c="#1292db", lw=0, alpha=1, zorder=5, s = 1)
+
+#title for the image
+plt.title("Migration of Lesser Black-backed Gulls")
+
+#save a high resolution image
+pylab.savefig('migration.png',dpi=1000)
+
+#plot the image
+plt.show()
+```
+
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_1.png)image_2
+
+
+Below is a not so pretty plot :/ But, this might serve for some other task. See! How good Basemap is!
+
+```
+map = Basemap(llcrnrlon=-10.,llcrnrlat=-10.,urcrnrlon=90.,urcrnrlat=70.,resolution = 'l',area_thresh = 100000.0,projection='gall')
+
+map.drawcoastlines()
+map.drawcoastlines()
+map.drawcountries()
+map.fillcontinents(color = 'gainsboro')
+map.drawmapboundary(fill_color='steelblue')
+
+xs, ys = m(df['location-long'].values, df['location-lat'].values)
+map.plot(xs,ys,'ro',markersize=1)
+
+plt.show()
+```
+
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_2.png)image_3
+
+## Visualize a bird's trajectory in 3D
+
+Let's plot the trajectory of a bird's migration. We get a sexy plot! Don't we? The data for this can found here and is named `migration_original.csv`
+
+```
+def plot_3d(df):
+    #initialise a figure object
+    fig = plt.figure(figsize=(14,10))
+    
+    #add a 3D object
+    ax = fig.add_subplot(111, projection='3d')
+    
+    #scatter plot
+    ax.scatter(df['event-id'], df['location-long'], df['location-lat'], c="#1292db", lw=0, alpha=1, zorder=5, s = 3)
+    
+        
+    ax.set_xlabel('Time of Year')
+    ax.set_ylabel('Longitude')
+    ax.set_zlabel('Latitude')
+
+    plt.show()
+    
+d = pd.read_csv('migration_original.csv')
+#91732 is the id of the bird whose trajectory we are interested in.
+#feel free to change the id of the bird
+k = d.loc[d['tag-local-identifier'] == 91732]
+
+#normalise the time axis
+#use the event-id to determine the time stamp
+#Note: event-id is in increasing order between a range of numbers,
+#so we can easily normalise for a given bird
+#In the next post, I will plot using time-stamps
+#and that will make things more clear
+
+k['event-id'] = (k['event-id'] - k['event-id'].mean())/k['event-id'].std(ddof=0)
+
+plot_3d(k)
+```
+
+![](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_1.png)image_4
+
+## What's Next?
+
+In the next few posts to follow I will formally the introduce the problems that we have dealt with, will have a closer look at the time series data and then run some deep learning models to predict the bird's behaviour! I hope you enjoyed this post. You can reach me at pulkit.khandelwal@mail.mcgill.ca with questions or comments!
+
+
+
+
+
