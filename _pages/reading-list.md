@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "Reading List"
+title: "My Reading List"
 permalink: /reading-list/
 author_profile: true
 ---
 
-## This is my reading list.
-# I read psychology, popular science and cognitive science books. Every then and now, I also read some fiction.
+## I read cognitive science, psychology and popular science books. Every now and then, I also read some fiction.
 
-I also follow the book recommendations by [Bill Gates]() and [Mark Zuckerberg].
+I also follow the book recommendations by [Bill Gates](https://www.gatesnotes.com/Books#All) and [Mark Zuckerberg](http://www.ayearofbooks.net/book-1-/). 
 
 Below are my recommendations
 ------
