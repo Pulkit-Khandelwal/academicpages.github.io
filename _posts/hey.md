@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 4'
+title: 'Hey!'
 date: 2015-08-14
 permalink: /posts/hey/
 tags:
