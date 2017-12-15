@@ -9,7 +9,7 @@ author_profile: true
 
 I also follow the book recommendations by [Bill Gates](https://www.gatesnotes.com/Books#All) and [Mark Zuckerberg](http://www.ayearofbooks.net/book-1-/). 
 
-Below are my recommendations
+My Bookshelf
 ------
 
 1. On Intelligence by Jeff Hawkins
@@ -70,5 +70,5 @@ Fiction:
 9. The Catcher in the Rye by J. D. Salinger
 
 More book recommendations by:
-Facebook
-Simon Singh
+[Facebook](https://media.fb.com/2016/12/19/global-influencers-share-2016-book-recommendations-for-readtolead/)
+[Simon Singh](https://simonsingh.net/books/recommended-books/)
