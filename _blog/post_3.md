@@ -41,3 +41,6 @@ df = pd.read_csv('migration_simplified.csv')
 #display the header and see first few entirs in the dataset
 print df.head()
 ```
+
+![Image 1](https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_4.png)
+
