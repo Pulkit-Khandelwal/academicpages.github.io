@@ -13,12 +13,12 @@ My Bookshelf
 ------
 
 ### Non-fiction
-* On Intelligence by *Jeff Hawkins*
-* The Learning Algorithm by *Pedro Domingos*
-* Mindset by *Carol Dweck*
-* How to lie with statistics by *Darrell Huff*
-* Wiki Leaks: Inside Julian Assange's War on Secrecy by *David Leigh* and *Luke Harding*
-* Outliers by *Malcom Gladwell* 
+* **On Intelligence** by *Jeff Hawkins*
+* **The Learning Algorithm** by *Pedro Domingos*
+* **Mindset** by *Carol Dweck*
+* **How to lie with statistics** by *Darrell Huff*
+* **Wiki Leaks: Inside Julian Assange's War on Secrecy** by *David Leigh* and *Luke Harding*
+* **Outliers** by *Malcom Gladwell* 
 * Gang Leader for a Day by *Sudhir Venkatesh*
 * Startup Nation by *Dan Senor and Saul Singer*
 * Jugaad by *Jaideep Prabhu*, *Navi Radjou*, and *Simone Ahuja*
