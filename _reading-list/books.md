@@ -1,6 +1,6 @@
 ---
 title: "Paper Title Number 1"
-collection: booklist
+collection: reading-list
 permalink: /list/books
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
