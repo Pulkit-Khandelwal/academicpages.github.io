@@ -12,11 +12,11 @@ I also follow the book recommendations by [**Bill Gates**](https://www.gatesnote
 My Bookshelf
 ------
 
-1. On Intelligence by *Jeff Hawkins*
-2. The Learning Algorithm by *Pedro Domingos*
-3. Mindset by *Carol Dweck*
-4. How to lie with statistics by *Darrell Huff*
-5. Wiki Leaks: Inside Julian Assange's War on Secrecy by *David Leigh* and *Luke Harding*
+* On Intelligence by *Jeff Hawkins*
+* The Learning Algorithm by *Pedro Domingos*
+* Mindset by *Carol Dweck*
+* How to lie with statistics by *Darrell Huff*
+* Wiki Leaks: Inside Julian Assange's War on Secrecy by *David Leigh* and *Luke Harding*
 6. Outliers by *Malcom Gladwell* 
 7. Gang Leader for a Day by *Sudhir Venkatesh*
 8. Startup Nation by *Dan Senor and Saul Singer*
