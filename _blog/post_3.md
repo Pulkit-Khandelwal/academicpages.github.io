@@ -6,7 +6,6 @@ excerpt: 'This tutorial introduces the nitty gritties of plotting 2D and 3D data
 date: 2017-01-09
 ---
 
-
 You can find the Jupyter Notebook [here](https://github.com/Pulkit-Khandelwal/blogs-notebooks/blob/master/Basemap/Basemap_post_1.ipynb)
 
 This tutorial introduces the nitty gritties of plotting 2D and 3D data on Geographical Maps by using [Matplotlib Basemap toolkit](http://matplotlib.org/basemap/users/intro.html). As part of the term project for Applied Machine Learning course at McGill University in Fall 2016, we were given the task of predicting various behaviours of animal movement aimed at conservation of the species. The data is in the form of time series and can be otained at [movebank](https://www.movebank.org/), which is a repository of animal tracking data accumulated from various scientific studies. My team had chosen to analyze the migratory behaviour of Lesser Black-backed Gulls birds. The reference paper and the data can be found [here](https://www.datarepository.movebank.org/handle/10255/move.494).
