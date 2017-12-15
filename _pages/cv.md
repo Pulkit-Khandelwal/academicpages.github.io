@@ -14,11 +14,14 @@ redirect_from:
 
 Education
 ======
-* Master's in Computer Science, McGill University, Canada
-      Sept 2016-present
-* Bachelor's in Technology in Electronics and Communication Engineering, Vellore Institute of Technology, India
-      2012-2016
-
+* MSc. Computer Science
+  * McGill University, Montreal, Canada [Sept. 2016 - present]
+  * Supervisor: Kaleem Siddiqi
+  * Co-supervisor: Louis Collins
+      
+* BTech. Electronics and Communication Engineering
+  * Vellore Institute of Technology, India [2012-2016]
+      
 Work experience
 ======
 * Summer 2015: Research Assistant
