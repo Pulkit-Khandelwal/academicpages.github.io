@@ -16,7 +16,7 @@ Education
 ======
 * **MSc. Computer Science**
   * McGill University, Montreal, Canada [Sept. 2016 - present]
-  * Supervisors: [Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/) and [Louis Collins](http://nist.mni.mcgill.ca/)
+  * Supervisors: [*Kaleem Siddiqi*](http://www.cim.mcgill.ca/~siddiqi/) and [*Louis Collins*](http://nist.mni.mcgill.ca/)
       
 * **BTech. Electronics and Communication Engineering**
   * Vellore Institute of Technology, India [2012 - 2016]
