@@ -6,4 +6,4 @@ excerpt: 'This post reviews Machine Learning MOOCs and online lectures for both 
 date: 2016-07-01
 ---
 
-https://www.kdnuggets.com/2016/07/top-machine-learning-moocs-online-lectures.html
+{**Click**](https://www.kdnuggets.com/2016/07/top-machine-learning-moocs-online-lectures.html) for the original article.
