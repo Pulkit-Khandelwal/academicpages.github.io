@@ -184,7 +184,10 @@ collections:
   reading-list:
     output: true
     permalink: /:collection/:path/
-
+  booklist:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _posts
@@ -240,7 +243,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _booklist
+  - scope:
+      path: ""
+      type: booklist
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
