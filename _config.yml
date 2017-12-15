@@ -184,7 +184,7 @@ collections:
   reading-list:
     output: true
     permalink: /:collection/:path/
-  booklist:
+  blog:
     output: true
     permalink: /:collection/:path/
     
@@ -243,10 +243,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _booklist
+  # _blog
   - scope:
       path: ""
-      type: booklist
+      type: blog
     values:
       layout: single
       author_profile: true
