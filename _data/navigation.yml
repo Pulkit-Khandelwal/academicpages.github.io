@@ -17,3 +17,6 @@ main:
     
   - title: "Photos"
     url: /photos/
+
+  - title: "Interesting Sites"
+    url: /websites/
