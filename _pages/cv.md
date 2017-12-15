@@ -12,7 +12,7 @@ Education
 ======
 * **MSc. Computer Science**
   * McGill University, Montreal, Canada [Sept. 2016 - present]
-  * Supervisors: [***Kaleem Siddiqi***](http://www.cim.mcgill.ca/~siddiqi/) and [***Louis Collins***](http://nist.mni.mcgill.ca/)
+  * Supervisors: [*Kaleem Siddiqi*](http://www.cim.mcgill.ca/~siddiqi/) and [*Louis Collins*](http://nist.mni.mcgill.ca/)
       
 * **BTech. Electronics and Communication Engineering**
   * Vellore Institute of Technology, India [2012 - 2016]
@@ -20,23 +20,23 @@ Education
 Research and Work Experience
 ======
 * **Shape Analysis Group, McGill University** [Nov. 2016 - present]
-  *
+  * Graduate Research Assistant
   *
 
 * **Planet Labs**, San Francisco, United States [Aug. 2017 - Dec. 2017]
   * Machine Learning Intern
   * 
-  * Supervisor: [Katherine Scott](https://www.linkedin.com/in/katherineascott/)
+  * Supervisor: [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
 
 * **Centre for Advanced Imaging, University of Queensland**, Brisbane, Australia [Dec. 2015 - Feb. 2016]
   * Research Intern
   * 
-  * Supervisor: [Steffen Bollmann](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
+  * Supervisor: [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
   
 * **Imaging, Media and Graphics Lab., University of Saskatchewan**, Saskatoon, Canada [June 2015 - Aug. 2015]
   * Research Intern
   *
-  * Supervisor: [Mark Eramian](https://www.cs.usask.ca/faculty/eramian/)
+  * Supervisor: [*Mark Eramian*](https://www.cs.usask.ca/faculty/eramian/)
   
 Skills
 ======
