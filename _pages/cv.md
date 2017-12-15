@@ -20,19 +20,24 @@ Education
   * Co-supervisor: Louis Collins
       
 * BTech. Electronics and Communication Engineering
-  * Vellore Institute of Technology, India [2012-2016]
+  * Vellore Institute of Technology, India [2012 - 2016]
       
-Work experience
+Research and Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Planet Labs, San Francisco, United States [Aug. 2017 - Dec. 2017]
+  * Machine Learning Intern | Supervisor: 
+  * 
+  * 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* University of Queensland, Brisbane, Australia [Dec. 2015 - Feb. 2016]
+  * Research Intern | Supervisor: 
+  * 
+  * 
+  
+* University of Saskatchewan, Saskatoon, Canada [June 2016 - Aug. 2016]
+  * Research Intern | Supervisor: 
+  *
+  *
   
 Skills
 ======
