@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : https://twitter.com/pulkittweet
+  username               : pulkittweet
 facebook:
   username               :
   app_id                 :
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pulkit"
+  name             : "Pulkit Khandelwal"
   avatar           : "profile.png"
   bio              : "Computer Science grad at McGill. Computer Vision. Reader. Coffee"
-  location         : "Montreal"
+  location         : "Montréal"
   employer         :
   googlescholar    : 
   email            :
@@ -92,10 +92,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Pulkit-Khandelwal"
+  github           : "Pulkit-Khandelwal"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/pulkss/"
+  instagram        : "pulkss"
   lastfm           :
   linkedin         :
   orcid            :
@@ -104,7 +104,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/pulkittweet"
+  twitter          : "pulkittweet"
   vine             :
   weibo            :
   xing             :
