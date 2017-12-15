@@ -1,4 +1,3 @@
-
 ---
 title: "Top Machine Learning MOOCs and Online Lectures: A Comprehensive Survey"
 collection: blog
@@ -6,13 +5,7 @@ permalink: /blog/post_1
 excerpt: 'This post reviews Machine Learning MOOCs and online lectures for both the novice and expert audience. This post first appeared on [**kdnuggets**](https://www.kdnuggets.com/)'
 date: 2016-07-01
 ---
----
-title: "Getting started with Basemap in Python"
-collection: blog
-permalink: /blog/post_3
-excerpt: 'This tutorial introduces the nitty gritties of plotting 2D and 3D data on Geographical Maps using Matplotlib's Basemap'
-date: 2017-01-09
----
+
 
 You can find the Jupyter Notebook [here](https://github.com/Pulkit-Khandelwal/blogsnotebooks/blob/master/Basemap/Basemap_post_1.ipynb)
 
