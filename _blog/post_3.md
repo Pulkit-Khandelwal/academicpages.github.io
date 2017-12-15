@@ -24,7 +24,8 @@ Let's get started!
 ## The Data
 First, let's see what the data looks like by using Pandas. You can download part of the data [here](https://github.com/Pulkit-Khandelwal/blogs-notebooks/tree/master/Basemap). The file is named ```"migration_simplified.csv"```. This is a much condensed version of the original data but serves the purpose for this tutorial. You can see the timestamp, the latitude and longitudinal data during the migration of birds.
 
-```#import the required libraries
+```
+#import the required libraries
 %matplotlib inline
 
 import pandas as pd
@@ -38,6 +39,7 @@ import pylab
 df = pd.read_csv('migration_simplified.csv')
 
 #display the header and see first few entirs in the dataset
-print df.head()```
+print df.head()
+```
 
 <br/><img src='https://github.com/Pulkit-Khandelwal/pulkit-khandelwal.github.io/blob/master/_blog/post_3_img_4.png'>
