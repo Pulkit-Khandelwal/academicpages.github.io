@@ -58,6 +58,7 @@ My Bookshelf
 * Moonwalking with Einstein by *Joshua Foer*
 * Five Lectures on Psychoanalysis by *Sigmund Freud*
 * The Mystery of the Aleph by *Amir D. Azcel*
+* The Idea Factory: Bell Labs and the Great Age of American Innovation by *Jon Gertner*
 
 ### Fiction
 * The Girl on the Train by *Paula Hawkins*
