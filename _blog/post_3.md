@@ -147,8 +147,3 @@ plot_3d(k)
 ## What's Next?
 
 In the next few posts to follow I will formally the introduce the problems that we have dealt with, will have a closer look at the time series data and then run some deep learning models to predict the bird's behaviour! I hope you enjoyed this post. You can reach me at pulkit.khandelwal@mail.mcgill.ca with questions or comments!
-
-
-
-
-
