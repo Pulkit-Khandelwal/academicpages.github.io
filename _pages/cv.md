@@ -41,6 +41,12 @@ Skills
 Publications
 ======
 
+\begin{cvitems}
+        \item {\textbf{P. Khandelwal}, M. Barth, S. Bollmann.\textit{ Performance evaluation for automated segmentation of Hippocampus Subfields: Preliminary Results using FreeSurfer and ASHS}.  European Society for Magnetic Resonance in Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 {\href{https://figshare.com/articles/Performance_evaluation_for_automated_segmentation_of_Hippocampus_Subfields_Preliminary_Results_using_FreeSurfer_and_ASHS/4272431}{\textbf{Link}}}}\\
+        \item {\textbf{Pulkit Khandelwal}, Neha Bisht, Thanikaiselvan V.\textit{ Randomly Hiding Secret Data using Dynamic Programming for Image Steganography}. IEEE Symposium on Multimedia, Visualization and Human Computer Interaction, International Conference on Computing and Network Communications, December 2015. Pg: 789-795 {\href{http://ieeexplore.ieee.org/abstract/document/7411278/}{\textbf{Link}}}}
+      \end{cvitems}
+    }
+
 Courses
 ======
 
@@ -53,7 +59,8 @@ Honours and Awards
   
 Teaching
 ======
-* Graduate Teaching Assistant, School of Computer Science, McGill University - *Intorduction to Software Systems* (COMP206) for three terms: Fall 2016, Winter 2017 and Winter 2018
+* ***Graduate Teaching Assistant***, School of Computer Science, McGill University
+  * *Intorduction to Software Systems* [COMP 206]: Fall 2016, Winter 2017 and Winter 2018
   
 Volunteer and Extra-curricular Activities
 ======
@@ -61,7 +68,7 @@ Volunteer and Extra-curricular Activities
   * Plan and execute academic and social events
   * Solve issues related to academic activities
 
-* EdforAll (Education for All), India [Sept. 2013 - May 2015]
+* ***Volunteer***, EdforAll (Education for All), India [Sept. 2013 - May 2015]
   * NPO aimed at educating less privileged students in shelter homes and orphanages
   * I was an Engish and Math teacher
 
