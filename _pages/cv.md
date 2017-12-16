@@ -41,6 +41,13 @@ Skills
 Publications
 ======
 
+Courses
+======
+
+Projects
+======
+[Click](https://pulkit-khandelwal.github.io/portfolio/) here for Portfolio
+
 Honours and Awards
 ======
   
