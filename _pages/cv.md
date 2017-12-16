@@ -41,22 +41,34 @@ Skills
 Publications
 ======
 
-\begin{cvitems}
-        \item {\textbf{P. Khandelwal}, M. Barth, S. Bollmann.\textit{ Performance evaluation for automated segmentation of Hippocampus Subfields: Preliminary Results using FreeSurfer and ASHS}.  European Society for Magnetic Resonance in Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 {\href{https://figshare.com/articles/Performance_evaluation_for_automated_segmentation_of_Hippocampus_Subfields_Preliminary_Results_using_FreeSurfer_and_ASHS/4272431}{\textbf{Link}}}}\\
-        \item {\textbf{Pulkit Khandelwal}, Neha Bisht, Thanikaiselvan V.\textit{ Randomly Hiding Secret Data using Dynamic Programming for Image Steganography}. IEEE Symposium on Multimedia, Visualization and Human Computer Interaction, International Conference on Computing and Network Communications, December 2015. Pg: 789-795 {\href{http://ieeexplore.ieee.org/abstract/document/7411278/}{\textbf{Link}}}}
-      \end{cvitems}
-    }
+* P. Khandelwal, M. Barth, S. Bollmann. **Performance evaluation for automated segmentation of Hippocampus Subfields: Preliminary Results using FreeSurfer and ASHS**.  European Society for Magnetic Resonance in Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 [Link](https://figshare.com/articles/Performance_evaluation_for_automated_segmentation_of_Hippocampus_Subfields_Preliminary_Results_using_FreeSurfer_and_ASHS/4272431)
 
-Courses
+* Pulkit Khandelwal, Neha Bisht, Thanikaiselvan V. **Randomly Hiding Secret Data using Dynamic Programming for Image Steganography**. IEEE Symposium on Multimedia, Visualization and Human Computer Interaction, International Conference on Computing and Network Communications, December 2015. Pg: 789-795 [Link](http://ieeexplore.ieee.org/abstract/document/7411278/)
+
+
+Relevant Coursework
 ======
-
+* McGill University
+  Computer Vision, Natural Language Processing, Applied Machine Learning, Deep Learning, Reinforcement Learning, Probabilistic   Graphical Models, Statistical Computer Vision, Advanced Medical Imaging
+  
+* VIT University
+  Data Structures and Algorithms, Digital Image Processing, Digital Signal Processing
+  Probability Theory and Random Process, Statistics, Calculus, Differential Equations, Information Theory and Coding
+  
 Projects
 ======
 [Click](https://pulkit-khandelwal.github.io/portfolio/) here for Portfolio
 
 Honours and Awards
 ======
-  
+* Graduate Scholarship, *Natural Sciences and Engineering Research Council of Canada*, Montreal, Canada [2016 - 2018]
+* Graduate Scholarship, *Mitacs Globalink Graduate Fellowship*, Montreal, Canada [2016 - 2018]
+* UQ Summer Research Program, Brisbane, Australia [2015 - 2016]
+* Mitacs Globalink Research Internship, Saskatoon, Canada [2015]
+* Best User Experience and User Interface Award, *Startup Weekend*, Bangalore, India [2014]
+* iCUBE -The National Youth Idea Challenge for Innovative Business Ideation, Top 50 out of 7500. Idea Champion, New Delhi, India [2013]
+* International English Olympiad, All India Rank- 44; State Rank-7; School Rank-1, Pune, India [2010]
+
 Teaching
 ======
 * ***Graduate Teaching Assistant***, School of Computer Science, McGill University
