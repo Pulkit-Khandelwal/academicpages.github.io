@@ -16,24 +16,38 @@ Education
       
 * **BTech. Electronics and Communication Engineering**
   * Vellore Institute of Technology, India [2012 - 2016]
-      
+ 
+Interests
+======
+* Computer Vision. Machine Learning. Deep Learning
+* Medical Imaging: Image Segmentation
+
 Research and Work Experience
 ======
 * **Shape Analysis Group, McGill University** [Nov. 2016 - present]   
   * Graduate Research Assistant
-  *
+  * Segmentation of Human Vertebrae in MRI
+  * Methods: Level-sets based PDEs with Shape priors
 
 * [**Planet Labs**](https://www.planet.com/), San Francisco, United States [Aug. 2017 - Dec. 2017]
-  * Research Intern under the supervision of [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
-  * 
+  * Research Intern supervised by [*Katherine Scott*](https://www.linkedin.com/in/katherineascott/)
+  * Created Segmentation API for an upcoming Computer Vision, Machine Learning and GIS library
+  * Created an API to query Open Street Maps data
+  * Developed deep segmentation modules for *building segmentation* in Planet Satellite Imagery using [*U-Net*](https://arxiv.org/abs/1505.04597) architecture
+  * Skillset: OOPs, Design Patterns and Continuous Integration
 
 * [**Centre for Advanced Imaging, University of Queensland**](https://cai.centre.uq.edu.au/), Brisbane, Australia [Dec. 2015 - Feb. 2016]
-  * Research Intern under the supervision of [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
-  * 
+  * Research Intern supervised by [*Steffen Bollmann*](https://cai.centre.uq.edu.au/profile/115/steffen-bollmann)
+  * Developed Automated segmentation pipeline for Hippocampal subfields
+  * Developed a biomarker for neurodegenerative diseases
+  * Performance evaluation of freeSurfer and ASHS on 7 Tesla Human Brain
   
 * [**Imaging, Media and Graphics Lab., University of Saskatchewan**](https://www.cs.usask.ca/research/research-groups/imaging,-multimedia-and-graphics-img-lab.php), Saskatoon, Canada [June 2015 - Aug. 2015]
-  * Research Intern under the supervision of [*Mark Eramian*](https://www.cs.usask.ca/faculty/eramian/)
-  *
+  * Research Intern supervised by [*Mark Eramian*](https://www.cs.usask.ca/faculty/eramian/)
+  * Evaluation of Reproducibility and Accuracy in Semi-automated Interactive Image Segmentation Algorithms
+  * Image Segmentation using Graph Cuts
+  * Focused on HCI to enhance usability research and analysis
+  * Created a web app using web2Py to enter contextual information which enabled segmentation
   
 Skills
 ======
