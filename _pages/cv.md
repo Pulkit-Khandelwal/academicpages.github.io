@@ -53,10 +53,17 @@ Honours and Awards
   
 Teaching
 ======
+* Graduate Teaching Assistant, School of Computer Science, McGill University - *Intorduction to Software Systems* (COMP206) for three terms: Fall 2016, Winter 2017 and Winter 2018
   
 Volunteer and Extra-curricular Activities
 ======
+* ***Vice President, Academics*** at Computer Science Graduate Society, McGill University [Sept. 2016 - present]
+  * Plan and execute academic and social events
+  * Solve issues related to academic activities
 
+* EdforAll (Education for All), India [Sept. 2013 - May 2015]
+  * NPO aimed at educating less privileged students in shelter homes and orphanages
+  * I was an Engish and Math teacher
 
 * Curriculum Vitae in [**PDF**](https://drive.google.com/file/d/0B1xr2l_vl4kKT29ndlBiSjM4bzQ/view?usp=sharing)
 * Resume in [**PDF**](https://drive.google.com/file/d/0B1xr2l_vl4kKbHYzbVRyTEt6X2M/view?usp=sharing)
