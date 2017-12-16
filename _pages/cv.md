@@ -38,22 +38,28 @@ Research and Work Experience
 Skills
 ======
 
+* Languages: Bash, Python, C++
+* Libraries: scikit, vlfeat, PIL, OpenCV, nltk, theano, keras, tensorflow
+* Medical Imaging: freeSurfer, ASHS
+* GIS and Remote Sensing: geoPandas, Open Street Maps APIs
+* Tools and Packages: Matlab, git, Mathematica, web2Py
+
 Publications
 ======
 
-* P. Khandelwal, M. Barth, S. Bollmann. **Performance evaluation for automated segmentation of Hippocampus Subfields: Preliminary Results using FreeSurfer and ASHS**.  European Society for Magnetic Resonance in Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 [Link](https://figshare.com/articles/Performance_evaluation_for_automated_segmentation_of_Hippocampus_Subfields_Preliminary_Results_using_FreeSurfer_and_ASHS/4272431)
+* P. Khandelwal, M. Barth, S. Bollmann. **Performance evaluation for automated segmentation of Hippocampus Subfields: Preliminary Results using FreeSurfer and ASHS**.  European Society for Magnetic Resonance in Medicine and Biology (ESMRMB), Vienna, Austria, September 2016 [**Link**](https://figshare.com/articles/Performance_evaluation_for_automated_segmentation_of_Hippocampus_Subfields_Preliminary_Results_using_FreeSurfer_and_ASHS/4272431)
 
-* Pulkit Khandelwal, Neha Bisht, Thanikaiselvan V. **Randomly Hiding Secret Data using Dynamic Programming for Image Steganography**. IEEE Symposium on Multimedia, Visualization and Human Computer Interaction, International Conference on Computing and Network Communications, December 2015. Pg: 789-795 [Link](http://ieeexplore.ieee.org/abstract/document/7411278/)
+* Pulkit Khandelwal, Neha Bisht, Thanikaiselvan V. **Randomly Hiding Secret Data using Dynamic Programming for Image Steganography**. IEEE Symposium on Multimedia, Visualization and Human Computer Interaction, International Conference on Computing and Network Communications, December 2015. Pg: 789-795 [**Link**](http://ieeexplore.ieee.org/abstract/document/7411278/)
 
 
 Relevant Coursework
 ======
 * McGill University
-  Computer Vision, Natural Language Processing, Applied Machine Learning, Deep Learning, Reinforcement Learning, Probabilistic   Graphical Models, Statistical Computer Vision, Advanced Medical Imaging
-  
+  * Computer Vision, Natural Language Processing, Applied Machine Learning, Deep Learning, Reinforcement Learning,                 Probabilistic   Graphical Models, Statistical Computer Vision, Advanced Medical Imaging
+
 * VIT University
-  Data Structures and Algorithms, Digital Image Processing, Digital Signal Processing
-  Probability Theory and Random Process, Statistics, Calculus, Differential Equations, Information Theory and Coding
+  * Data Structures and Algorithms, Digital Image Processing, Digital Signal Processing
+    Probability Theory and Random Process, Statistics, Calculus, Differential Equations, Information Theory and Coding
   
 Projects
 ======
@@ -61,13 +67,13 @@ Projects
 
 Honours and Awards
 ======
-* Graduate Scholarship, *Natural Sciences and Engineering Research Council of Canada*, Montreal, Canada [2016 - 2018]
-* Graduate Scholarship, *Mitacs Globalink Graduate Fellowship*, Montreal, Canada [2016 - 2018]
-* UQ Summer Research Program, Brisbane, Australia [2015 - 2016]
-* Mitacs Globalink Research Internship, Saskatoon, Canada [2015]
-* Best User Experience and User Interface Award, *Startup Weekend*, Bangalore, India [2014]
-* iCUBE -The National Youth Idea Challenge for Innovative Business Ideation, Top 50 out of 7500. Idea Champion, New Delhi, India [2013]
-* International English Olympiad, All India Rank- 44; State Rank-7; School Rank-1, Pune, India [2010]
+* Graduate Scholarship, **Natural Sciences and Engineering Research Council of Canada**, Montreal, Canada [2016 - 2018]
+* Graduate Scholarship, **Mitacs Globalink Graduate Fellowship**, Montreal, Canada [2016 - 2018]
+* **UQ Summer Research Program**, Brisbane, Australia [2015 - 2016]
+* **Mitacs Globalink Research Internship**, Saskatoon, Canada [2015]
+* Best User Experience and User Interface Award, **Startup Weekend**, Bangalore, India [2014]
+* **iCUBE -The National Youth Idea Challenge for Innovative Business Ideation**, Top 50 out of 7500. Idea Champion, New Delhi, India [2013]
+* **International English Olympiad**, All India Rank- 44; State Rank-7; School Rank-1, Pune, India [2010]
 
 Teaching
 ======
